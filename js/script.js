@@ -3,7 +3,7 @@ let nextRace = null;
 // Mapa de circuitos para imágenes
 const circuitMaps = {
   'Jeddah Corniche Circuit': 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Jeddah_Corniche_Circuit_2021.svg/800px-Jeddah_Corniche_Circuit_2021.svg.png',
-  'Miami International Autodrome': '/images/miami-circuit.png'
+  'Miami International Autodrome': 'images/miami-circuit.png'
   // Añade más circuitos según el calendario
 };
 
